@@ -610,7 +610,7 @@
 															></div>
 														</div>
 														<a
-															href="/product/coolmuster-pdf-creator-pro#section-giveaway-instructions"
+															href="/giveaway-software-code-web/#/product/coolmuster-pdf-creator-pro#section-giveaway-instructions"
 															rel="nofollow sponsored"
 															class="single_add_to_cart_button button alt"
 															target="_blank"
@@ -907,7 +907,7 @@
 												class="float-panel-woo-button rh-flex-center-align rh-flex-right-align"
 											>
 												<a
-													href="/product/coolmuster-pdf-creator-pro#section-giveaway-instructions"
+													href="/giveaway-software-code-web/#/product/coolmuster-pdf-creator-pro#section-giveaway-instructions"
 													data-product_id="6029"
 													data-product_sku=""
 													class="re_track_btn btn_offer_block single_add_to_cart_button product_type_external"
@@ -2304,7 +2304,7 @@
 																		><a
 																			rel="nofollow"
 																			id="cancel-comment-reply-link"
-																			href="/product/coolmuster-pdf-creator-pro/#respond"
+																			href="/giveaway-software-code-web/#/product/coolmuster-pdf-creator-pro/#respond"
 																			style="
 																				display: none;
 																			"
@@ -2869,7 +2869,7 @@
 										class="deal-pic-wrapper width-80 floatleft text-center"
 									>
 										<a
-											href="/product/coolmuster-pdf-creator-pro"
+											href="/giveaway-software-code-web/#/product/coolmuster-pdf-creator-pro"
 										>
 											<img
 												src="https://softwaregiveaway.co.uk/wp-content/uploads/2024/07/giveaway-coolmuster-pdf-creator-pro-boxshot-100x100.png"
@@ -2888,7 +2888,7 @@
 										<div class="rh-deal-name mb10">
 											<h5 class="mt0 mb10 fontnormal">
 												<a
-													href="/product/coolmuster-pdf-creator-pro"
+													href="/giveaway-software-code-web/#/product/coolmuster-pdf-creator-pro"
 													>Coolmuster PDF Creator
 													Pro</a
 												>

@@ -76,7 +76,7 @@
 									<a
 										class="img-centered-flex rh-flex-justify-center rh-flex-center-align"
 										title="Coolmuster PDF Creator Pro"
-										href="/product/coolmuster-pdf-creator-pro"
+										href="/giveaway-software-code-web/#/product/coolmuster-pdf-creator-pro"
 									>
 										<img
 											fetchpriority="high"
@@ -268,7 +268,7 @@
 									class="flowhidden mb10 fontnormal position-relative"
 								>
 									<a
-										href="/product/coolmuster-pdf-creator-pro"
+										href="/giveaway-software-code-web/#/product/coolmuster-pdf-creator-pro"
 									>
 										Coolmuster PDF Creator Pro
 									</a>
@@ -332,7 +332,7 @@
 										class="rh-flex-right-align btn_for_grid floatright"
 									>
 										<a
-											href="/product/coolmuster-pdf-creator-pro#section-giveaway-instructions"
+											href="/giveaway-software-code-web/#/product/coolmuster-pdf-creator-pro#section-giveaway-instructions"
 											data-product_id="6029"
 											data-product_sku=""
 											class="re_track_btn woo_loop_btn rh-flex-center-align rh-flex-justify-center rh-shadow-sceu product_type_external"
